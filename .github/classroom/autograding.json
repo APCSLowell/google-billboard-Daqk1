@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test case",
+      "setup": "",
+      "run": "./billboard",
+      "input": "",
+      "output": "7.42746639E9",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
