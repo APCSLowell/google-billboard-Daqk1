@@ -6,7 +6,7 @@
       "run": "./billboard",
       "input": "",
       "output": "7.42746639E9",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
