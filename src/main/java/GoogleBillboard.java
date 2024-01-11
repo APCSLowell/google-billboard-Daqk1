@@ -9,6 +9,14 @@ public class GoogleBillboard {
 
 	//Finish this function
 	public boolean isPrime(){
+      for(double i = 2; i <= Math.sqrt(e); i++){
+        if(e%i == 0){
+          return false;
+        }
+        }
+        return true;  
+}
+}
 	}
 
 }
